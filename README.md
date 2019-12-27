@@ -10,8 +10,8 @@ so that it can be used in the decryption process.
 
 ### Installation
 
-1: Download and install Node.js https://nodejs.org/
-2: Clone the **Encrypted** repository
-3: Go directory of **Encryped** 
-4: Run `nmp install` then `nmp start`
-5: Open your favorid browser and go to http://localhost:3000//
+1. Download and install Node.js https://nodejs.org/
+2. Clone the **Encrypted** repository
+3. Go directory of **Encryped** 
+4. Run `nmp install` then `nmp start`
+5. Open your favorid browser and go to http://localhost:3000//
